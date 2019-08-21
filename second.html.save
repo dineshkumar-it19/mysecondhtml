@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<!-- Demo program for external CSS-->
+<head>
+<title> External css demo</title>
+<!-- internal css -->
+<style>
+body{
+background-color:rgb(255,255,0);
+}
+h1{
+color:red;
+}
+p{
+color:green;
+}
+<p style="background-color:red;">
+
+</style>
+</head>
+<body>
+<h1>HTML</h1>
+<p> HYPER TEXT MARKUP LANGUAGE</p>
+<P> WORLD WIDE WEB</p>
+</body>
+</html>
